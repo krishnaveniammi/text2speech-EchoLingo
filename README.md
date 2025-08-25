@@ -40,7 +40,7 @@ pip install googletrans==4.0.0-rc1 pyttsx3
 
 ## 🎥 Demo
 
-[https://github.com/your-username/EchoLingo/assets/demo-video.mp4](https://github.com/your-username/EchoLingo/assets/demo-video.mp4)
+[(https://github.com/krishnaveniammi/text2speech-EchoLingo/blob/main/demo.mp4))]
 
 *(Click the link above to watch the working demo video — English text translated into French with audio output.)*
 
